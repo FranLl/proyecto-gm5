@@ -1,1 +1,2 @@
-# proyecto-gm5
+# Mi primer proyecto en GitHub
+## Introducción
